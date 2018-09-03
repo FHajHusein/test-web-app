@@ -5,6 +5,11 @@
 :: Version: 1.0.17
 :: ----------------------
 
+:: Custom
+:: ------
+
+echo This is Firas cusomizing the deployment!
+
 :: Prerequisites
 :: -------------
 
